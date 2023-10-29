@@ -1,0 +1,15 @@
+.fondo {
+
+   background-image: url(spiral.jpg);
+   margin: 0%;
+   background-position: center; 
+   background-repeat: no-repeat;
+   
+}
+
+p {
+
+    color: rgb(129, 151, 3);
+    font-weight: bolder;
+
+}
